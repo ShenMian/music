@@ -1,5 +1,8 @@
 # Music
 
+> [!WARNING]  
+> This project may have a large number of security vulnerabilities and is **only recommended for learning purposes**.  
+
 A simple online music website.
 
 ## Features
